@@ -1,0 +1,1 @@
+Custom templates for [Obsidian](https://obsidian.md).
